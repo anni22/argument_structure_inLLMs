@@ -1,4 +1,4 @@
-# argument_structure_inLLMs
+# A Mechanistic Analysis of Semantic Role Representation in a Decoder-Only Model
 
 Investigating how `aya-expanse-8b` represents semantic roles (Agent vs Patient) using probing and activation patching.
 
